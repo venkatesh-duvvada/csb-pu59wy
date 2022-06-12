@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://venkatesh-duvvada.github.io/csb-pu59wy/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://venkatesh-duvvada.github.io/csb-pu59wy/static/js/main.6f6bd303.chunk.js",
+    "main.js.map": "https://venkatesh-duvvada.github.io/csb-pu59wy/static/js/main.6f6bd303.chunk.js.map",
+    "runtime-main.js": "https://venkatesh-duvvada.github.io/csb-pu59wy/static/js/runtime-main.41e69ac8.js",
+    "runtime-main.js.map": "https://venkatesh-duvvada.github.io/csb-pu59wy/static/js/runtime-main.41e69ac8.js.map",
+    "static/js/2.a53c1bd0.chunk.js": "https://venkatesh-duvvada.github.io/csb-pu59wy/static/js/2.a53c1bd0.chunk.js",
+    "static/js/2.a53c1bd0.chunk.js.map": "https://venkatesh-duvvada.github.io/csb-pu59wy/static/js/2.a53c1bd0.chunk.js.map",
+    "index.html": "https://venkatesh-duvvada.github.io/csb-pu59wy/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://venkatesh-duvvada.github.io/csb-pu59wy/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a53c1bd0.chunk.js.LICENSE.txt": "https://venkatesh-duvvada.github.io/csb-pu59wy/static/js/2.a53c1bd0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41e69ac8.js",
+    "static/js/2.a53c1bd0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.6f6bd303.chunk.js"
+  ]
+}
